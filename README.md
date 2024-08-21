@@ -1,4 +1,4 @@
-Copyright (c) [2024] Opsmatix systems limited trading as Jaid. All rights reserved.
+Copyright (c) [2024] Opsmatix Systems Limited trading as Jaid. All rights reserved.
 
 Terms of Use:
 Permission to View: You are granted permission to view the source code contained in this repository solely for informational purposes.
