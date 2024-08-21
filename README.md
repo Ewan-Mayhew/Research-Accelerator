@@ -1,7 +1,7 @@
-Copyright (c) [Year] Jaid. All rights reserved.
+Copyright (c) [Year] Opsmatix systems trading as Jaid. All rights reserved.
 
 Terms of Use:
-Permission to View: You are granted permission to view the source code contained in this repository solely for educational and informational purposes.
+Permission to View: You are granted permission to view the source code contained in this repository solely for informational purposes.
 
 No Reproduction: You are not permitted to copy, reproduce, or distribute any portion of the source code, in any form or by any means, electronic or mechanical, including photocopying, recording, or by any information storage and retrieval system.
 
