@@ -90,7 +90,7 @@ class Command(BaseCommand):
 
     def handle(self, *args, **kwargs):
         discipline = ['Machine Learning', 'AI', 'ML']
-        max_results = 20000
+        max_results = 10000
         relative_output_file = 'papers/data/machine_learning_dataset.json'
         
         # Convert to absolute path
