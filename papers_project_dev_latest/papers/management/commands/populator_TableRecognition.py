@@ -102,7 +102,7 @@ class Command(BaseCommand):
 
     def handle(self, *args, **kwargs):
         discipline = ['Machine Learning', 'Table Recognition', 'Table Transformers', 'Table Structure Recognition']
-        max_results = 20000
+        max_results = 10000
         relative_output_file = 'papers/data/table_recognition_dataset.json'
         
         # Convert to absolute path
