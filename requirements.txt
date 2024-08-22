@@ -2,3 +2,4 @@ plotly
 django
 numpy 
 sentence_transformers
+requests
