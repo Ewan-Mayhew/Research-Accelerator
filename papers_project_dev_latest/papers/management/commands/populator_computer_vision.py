@@ -82,7 +82,7 @@ class Command(BaseCommand):
 
     def handle(self, *args, **kwargs):
         discipline = ['Machine Learning', 'Computer Vision', 'Image recognition']
-        max_results = 10000
+        max_results = 400
         relative_output_file = 'papers/data/computer_vision_dataset.json'
         
         # Convert to absolute path
