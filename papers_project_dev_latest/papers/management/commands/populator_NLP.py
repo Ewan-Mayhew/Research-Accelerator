@@ -83,7 +83,7 @@ class Command(BaseCommand):
 
     def handle(self, *args, **kwargs):
         discipline = ['Machine Learning', 'NLP', 'Natural Language Processing']
-        max_results = 20000
+        max_results = 10000
         relative_output_file = 'papers/data/natural_language_processing_dataset.json'
         
         # Convert to absolute path
